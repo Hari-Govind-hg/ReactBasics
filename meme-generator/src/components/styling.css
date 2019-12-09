@@ -1,0 +1,18 @@
+.meme-logo {
+  width: 10%;
+}
+.meme-img {
+  align-content: center;
+}
+.top-text {
+  margin-top: -25%;
+  margin-left: 5%;
+  color: whitesmoke;
+  text-transform: uppercase;
+}
+.bottom-text {
+  margin-top: 17%;
+  margin-left: 8%;
+  color: whitesmoke;
+  text-transform: uppercase;
+}
